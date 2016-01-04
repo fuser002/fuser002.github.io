@@ -12,4 +12,4 @@ sono pazzo di Ruby e Rails e amo conoscere sempre cose nuove
 
 ### Contact me
 
-[email@domain.com](mailto:railsmarcu@gmail.com)
+[railsmarcu@gmail.com](mailto:railsmarcu@gmail.com)
