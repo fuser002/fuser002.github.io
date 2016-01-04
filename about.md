@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: CIRCA ME
 permalink: /about/
 ---
 
-Some information about you!
+mi chiamo Marco Marcucci e abito a Jesi 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+sono pazzo di Ruby e Rails e amo conoscere sempre cose nuove
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:railsmarcu@gmail.com)
