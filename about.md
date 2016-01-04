@@ -4,7 +4,7 @@ title: CIRCA ME
 permalink: /about/
 ---
 
-mi chiamo Marco Marcucci e abito a Jesi 
+mi chiamo Marco Marcucci e abito a Jesi (AN) ITALY
 
 ### Ulteriori Informazioni
 
