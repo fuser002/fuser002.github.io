@@ -1,9 +1,9 @@
 ---
 layout: post
-title: finalmente sono nato !!!!!
+title: Finalmente sono nato !!!!!
 ---
 
-sto programmatore dei miei stivali mi ha tenuto nascosto per anni ma ora SONO QUI !!!!
+Sto programmatore dei miei stivali mi ha tenuto nascosto per anni ma ora SONO QUI !!!!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
