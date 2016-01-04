@@ -7,4 +7,4 @@ Sto programmatore dei miei stivali mi ha tenuto nascosto per anni ma ora SONO QU
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Ora ci divertiremo un mondo insieme .... a rintracciare tutte le cose fantastiche che ci stanno in giro per il web
