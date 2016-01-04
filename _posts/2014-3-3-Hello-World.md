@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: finalmente sono nato !!!!!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+sto programmatore dei miei stivali mi ha tenuto nascosto per anni ma ora SONO QUI !!!!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
