@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Gennaio 2016   Build A Blog With Jekyll And GitHub Pages
+title: 4 Gen 2016   Build A Blog With Jekyll And GitHub Pages
 ---
 
 link <http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/>
