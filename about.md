@@ -6,10 +6,10 @@ permalink: /about/
 
 mi chiamo Marco Marcucci e abito a Jesi 
 
-### More Information
+### Ulteriori Informazioni
 
 sono pazzo di Ruby e Rails e amo conoscere sempre cose nuove
 
-### Contact me
+### Contatti
 
 [railsmarcu@gmail.com](mailto:railsmarcu@gmail.com)
